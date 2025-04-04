@@ -1,5 +1,5 @@
 
-const backendDomain = "https://mingle-mart.vercel.app/"
+const backendDomain = "https://mingle-mart.vercel.app"
 
 const SummaryApi = {
     signUp : {
