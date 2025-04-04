@@ -1,4 +1,4 @@
-### *Mingle Mart 🛒*
+### *Mingle Mart 🛒* -- https://mingle-mart-1v8t.vercel.app/
 Mingle Mart is a responsive and feature-rich e-commerce platform designed to offer users an intuitive shopping experience. Built using modern web technologies, it includes functionalities such as secure user authentication, advanced search and filtering, and seamless product management.
 
 ### *Features 🚀*
