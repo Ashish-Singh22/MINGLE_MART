@@ -1,5 +1,5 @@
 
-const backendDomain = process.env.REACT_APP_BACKEND_URL
+const backendDomain = "https://mingle-mart.vercel.app/"
 
 const SummaryApi = {
     signUp : {
