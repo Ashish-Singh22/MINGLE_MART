@@ -8,7 +8,7 @@ const cookieParser = require('cookie-parser')
 
 const app = express()
 app.use(cors({
-    origin : "https://mingle-mart-1v8t.vercel.app/",
+    origin : "https://mingle-mart-1v8t.vercel.app",
     credentials : true
 }))
 app.use(express.json({limit : '10mb'}));
