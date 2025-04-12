@@ -45,8 +45,8 @@ const paymentController = async(req,res) => {
 
                 }
             }),
-            success_url : `${process.env.FRONTEND_URL}/success`,
-            cancel_url : `${process.env.FRONTEND_URL}/cancel`,
+            success_url : "https://mingle-mart-1v8t.vercel.app/success",
+            cancel_url : "https://mingle-mart-1v8t.vercel.app/cancel",
         }
 
         
